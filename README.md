@@ -25,11 +25,11 @@ Currently working as a **Full-Stack Intern at LabMentix EdTech Private Limited**
 
 ### 🏆 Featured Projects
 <p align="left">
-  <a href="https://github.com/BISWABEDANTSINGH/your-ecommerce-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BISWABEDANTSINGH&repo=your-ecommerce-repo&theme=tokyonight&show_icons=true" alt="E-Commerce Project" />
+  <a href="https://github.com/BISWABEDANTSINGH/embersync-1-on-1-mentorship-app-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BISWABEDANTSINGH&repo=embersync-1-on-1-mentorship-app-&theme=tokyonight&show_icons=true" alt="EmberSync Mentorship App" />
   </a>
-  <a href="https://github.com/BISWABEDANTSINGH/your-oactf-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BISWABEDANTSINGH&repo=your-oactf-repo&theme=tokyonight&show_icons=true" alt="OACTF Research" />
+  <a href="https://github.com/BISWABEDANTSINGH/your-second-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BISWABEDANTSINGH&repo=your-second-repo&theme=tokyonight&show_icons=true" alt="Second Project" />
   </a>
 </p>
 
